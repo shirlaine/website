@@ -31,7 +31,7 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Firstname Lastname"
+  name = "Test Page"
   bio = "Super bio with markdown support **COOL**"
   job = "Your job title"
   location = "France"
