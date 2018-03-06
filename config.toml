@@ -11,11 +11,11 @@ canonifyurls        = true                          # Turns relative urls into a
 [params]
     blogHead        = "Blog"                        # Full name shows on blog post pages
     firstName       = "Shirlaine"                # First name shows in introduction on main page
-    tagLine         = "I'm a Web Developer"       # Appears after the introduction
+    tagLine         = "Web Developer, I am."       # Appears after the introduction
     introHeight     = "large"                       # Input either 'medium' or 'large' or 'fullheight'
     themeStyle      = "light"                        # Choose 'light' or 'dark'
     avatar          = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    email           = "shirlaine.com@email.com"         # Shows in contact section, or leave blank to omit
+    email           = "shirlaine.com@gmail.com"         # Shows in contact section, or leave blank to omit
     localTime       = true                          # Show your current local time in contact section
     timeZone        = "Asia/Singapore"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     dateForm        = "Jan 2, 2006"
@@ -51,7 +51,7 @@ canonifyurls        = true                          # Turns relative urls into a
     icon = "facebook"
 
 [[params.social]]
-    url = "https://twitter.com/"
+    url = "https://twitter.com/shirlaine_com"
     icon = "twitter"
 
 [[params.social]]
@@ -59,5 +59,5 @@ canonifyurls        = true                          # Turns relative urls into a
 icon = "linkedin"
 
 [[params.social]]
-    url = "https://github.com/"
+    url = "https://github.com/shirlaine"
     icon = "github"
