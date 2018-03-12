@@ -9,12 +9,12 @@ canonifyurls        = true                              # Turns relative urls in
 # googleAnalytics   = "xxx"
 
 [params]
-    bloghead            = "Scribings"                        # Full name shows on blog post pages
+    bloghead            = "Scribings by Shirlaine"                        # Full name shows on blog post pages
     firstname           = "Shirlaine"                # First name shows in introduction on main page
     tagline             = "Web Developer, Pet Styling Hobbyist."       # Appears after the introduction
     introheight         = "fullheight"                       # Input either 'medium' or 'large' or 'fullheight'
     themestyle          = "light"                        # Choose 'light' or 'dark'
-    avatar              = "img/workday.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
+    avatar              = "img/profile.jpg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email               = "shirlaine.com@gmail.com"         # Shows in contact section, or leave blank to omit
     localtime           = true                          # Show your current local time in contact section
     timezone            = "Asia/Singapore"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -25,7 +25,7 @@ canonifyurls        = true                              # Turns relative urls in
     faviconfile         = "img/fav.ico"
     pygmentsStyle       = "monokai"                     # Choose theme: https://help.farbox.com/pygments.html
     pygmentsCodeFences  = true
-    footertext          = ""                            # Text to show in footer (overrides default text)
+    footertext          = "Hugo Introduction Theme. All rights reserved otherwise :)"                            # Text to show in footer (overrides default text)
     fadein              = true                          # Turn on/off the fade-in effect
 
     showblog            = true                          # Show Blog section on home page
@@ -46,17 +46,17 @@ canonifyurls        = true                              # Turns relative urls in
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-    url = "https://twitter.com/"
+    url = "https://twitter.com/shirlaine_com"
     icon = "twitter"
 
 [[params.social]]
-    url = "https://facebook.com/"
+    url = "https://facebook.com/shirlainephang"
     icon = "facebook"
 
 [[params.social]]
-    url = "https://linkedin.com/"
+    url = "https://sg.linkedin.com/in/shirlaine-phang-80427762"
     icon = "linkedin"
 
 [[params.social]]
-    url = "https://github.com/"
+    url = "https://github.com/shirlaine"
     icon = "github"
