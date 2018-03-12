@@ -1,5 +1,5 @@
 ---
-title: "To Do"
+title: "To Do App"
 date: 2018-03-06T22:30:29+08:00
 image: "img/to-do2.jpg"
 external_link: ""

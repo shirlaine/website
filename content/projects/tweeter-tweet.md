@@ -1,5 +1,5 @@
 ---
-title: "Twitter Tweet Clone"
+title: "Tweeter Tweet App"
 date: 2018-03-06T22:30:29+08:00
 image: "img/tweeter2.jpg"
 external_link: ""
