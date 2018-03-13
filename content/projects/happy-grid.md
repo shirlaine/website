@@ -6,4 +6,4 @@ external_link: ""
 weight: 1
 ---
 
-## Test this
+## This project protrays a CSS grid image built in codepen

@@ -25,7 +25,7 @@ canonifyurls        = true                              # Turns relative urls in
     faviconfile         = "img/fav.ico"
     pygmentsStyle       = "monokai"                     # Choose theme: https://help.farbox.com/pygments.html
     pygmentsCodeFences  = true
-    footertext          = "Hugo Introduction Theme. All rights reserved otherwise :)"                            # Text to show in footer (overrides default text)
+    footertext          = "Thanks for viewing :)"                            # Text to show in footer (overrides default text)
     fadein              = true                          # Turn on/off the fade-in effect
 
     showblog            = true                          # Show Blog section on home page

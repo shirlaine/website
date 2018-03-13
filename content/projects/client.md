@@ -6,4 +6,4 @@ external_link: ""
 weight: 1
 ---
 
-### This is a test post with a [link to my e-commerce app](http://tweeter-tweet.herokuapp.com)
+### Post under construction..brb!

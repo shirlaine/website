@@ -13,3 +13,4 @@ draft: false
 ###### The result of that? Finding beauty/inspiration in places I would never have imagined :)
 ###### Read more about my background [here] (http://blog.techladies.co/meet-shirlaine-jill-trades-techlady/#.WqYq55OuxTY)
 ###### Or better yet, [say hello!] (http://shirlaine.com/#contact)
+###### PS, disclaimer..this website is still in the process of being built!
