@@ -22,10 +22,10 @@ canonifyurls        = true                              # Turns relative urls in
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     cachebuster         = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
     description         = "Website description."        # Max 160 characters show in search results
-    faviconfile         = "img/fav.ico"
+    faviconfile         = "img/star.svg"
     pygmentsStyle       = "monokai"                     # Choose theme: https://help.farbox.com/pygments.html
     pygmentsCodeFences  = true
-    footertext          = "Thanks for viewing :)"                            # Text to show in footer (overrides default text)
+    footertext          = "Thanks for stopping by :)"                            # Text to show in footer (overrides default text)
     fadein              = true                          # Turn on/off the fade-in effect
 
     showblog            = true                          # Show Blog section on home page
