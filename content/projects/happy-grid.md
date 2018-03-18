@@ -6,4 +6,13 @@ external_link: ""
 weight: 1
 ---
 
-## This project protrays a CSS grid image built in codepen
+
+##### Build with CSS Grid, Reponsive Design included!
+---
+Build this breakble toy as a reference which I spoke about at the meetup talk at [Talk.CSS](https://www.meetup.com/SingaporeCSS/events/247181798/) and [JuniorDevSG](https://www.meetup.com/Junior-Developers-Singapore/events/248305202/)
+
+View recording of the talk titled *"CSS Grid for Noobs by Noobs"* [here](https://www.youtube.com/watch?v=0Laanmn3zWc)
+
+View Original Photo inspiration  [here](https://drive.google.com/file/d/1ifbgZjW7zXsJsQQx9YwhoC-6iiwdPgLF/view?usp=sharing)
+
+View Codepen Demo [here](https://codepen.io/shirlaine/pen/ddKZvY)
