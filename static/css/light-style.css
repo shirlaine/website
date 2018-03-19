@@ -5653,8 +5653,16 @@ img{
 .modal-close{
     background-color:#000000
 }
+
+.column.markdown {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 2rem;
+}
+
 .markdown p{
-    margin-bottom:1em
+    margin-bottom:1em;
 }
 .markdown h1{
     font-size:3rem
